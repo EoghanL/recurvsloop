@@ -1,0 +1,5 @@
+class TestersController < ApplicationController
+
+
+
+end 
